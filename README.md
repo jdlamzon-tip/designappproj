@@ -1,4 +1,4 @@
 ## Web Application with Github and Jenkins
 
-**Author:
+### Author:
 - John David Lamzon
